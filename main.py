@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """One Line, One Laugh (make.fun).
 
-Writes the entry -- one original one-line joke -- to /output/entry.txt,
-where the sealed scorer reads it.
+Writes the entry -- one original one-line joke, kept as a single line
+with no trailing newline -- to /output/entry.txt, where the sealed
+scorer reads it.
 """
 
 import os
